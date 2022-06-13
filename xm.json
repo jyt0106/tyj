@@ -9,7 +9,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"clan://xm/xm.jar",
+"spider":"https://github.com/jyt0106/tyj/blob/main/xm.jar",
 
 "lives":[{"group":"redirect","channels":[{"live":"redirect","urls":[
 "aHR0cHM6Ly9naXRodWIuY29tL2p5dDAxMDYvdHlqL2Jsb2IvbWFpbi9saXZlLnR4dA==]}]}],
