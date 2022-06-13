@@ -11,9 +11,8 @@
 
 "spider":"clan://xm/xm.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
-"proxy://do=live&type=txt&ext=Y2xhbjovL3htL3R2L2xpdmUudHh0"
-]}]}],
+"lives":[{"group":"redirect","channels":[{"live":"redirect","urls":[
+"aHR0cHM6Ly9naXRodWIuY29tL2p5dDAxMDYvdHlqL2Jsb2IvbWFpbi9saXZlLnR4dA==]}]}],
 
 
 "sites":[
